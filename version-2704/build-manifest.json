@@ -1,0 +1,19 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 10,
+  "category_distribution": {
+    "动作犯罪": 200,
+    "古装武侠": 200,
+    "家庭剧情": 200,
+    "悬疑惊悚": 200,
+    "热播剧集": 200,
+    "科幻奇幻": 200,
+    "近期热门": 200,
+    "都市爱情": 200,
+    "青春综艺": 200,
+    "高分片库": 200
+  },
+  "video_source_count_from_uploaded_js": 20,
+  "jpg_files_included": 0
+}
